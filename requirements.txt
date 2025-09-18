@@ -1,0 +1,14 @@
+python>=3.10
+streamlit
+pdfplumber
+pandas
+openpyxl
+pytesseract        
+Pillow
+sentence-transformers
+faiss-cpu
+requests
+tqdm
+numpy
+scikit-learn       
+python-multipart   
